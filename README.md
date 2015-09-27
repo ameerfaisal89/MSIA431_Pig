@@ -1,5 +1,5 @@
 # PigScripts
-## Pig Scripts
+## Pig Scripts for Text Analytics
 
 This repository contains two Pig scripts:
 
