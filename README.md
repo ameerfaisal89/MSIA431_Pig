@@ -1,5 +1,5 @@
-# MSIA431_Pig
-## MSIA 431 Analytics for Big Data: Pig Scripts
+# PigScripts
+## Pig Scripts
 
 This repository contains two Pig scripts:
 
